@@ -10,6 +10,14 @@ int main()
     cout << "Come up and C++ me some time.";
     cout << endl;
     cout << "You won't regret it!" << endl;
+
+    cout << "The Good, the ";
+    cout << "Bad, ";
+    cout << "and the Ukulele.";
+    cout << endl;
+
+    cout << "What's the next? \n";
+
     cin.get();
     cin.get();
     return 0;
